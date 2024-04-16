@@ -23,17 +23,22 @@
 
 Para mais informações: [https://aws.global-infrastructure/](https://aws.amazon.com/pt/about-aws/global-infrastructure/regions_az/)
 
-## Benefícios e vantagens do uso de Cloud Computing
+## Benefícios e vantagens do uso de computação na AWS Cloud
 
-1. Você Troca CAPEX(Capital Expense - despesas fixas) por OPEX(Operational Expense - despesas variáveis)
-Significa que você não se preocupa mais com o hardware, apenas com as questões operacionais da sua aplicação.
-2. Benefícios de enormes economias de escala.
-Significa que teu gasto está totalmente adaptado ao teu consumo, não existe ociosidade, nem sobrecarregamento.
-3. Pare de adivinhar sua capacidade.
-Significa que com a cloud você pode utilizar de ferramentas e métricas para saber com mais exatidão qual será seu gasto com infra.
-4. Aumente a tua velocidade e agilidade.
-Significa que com a cloud você terá vários impedimentos a menos para ter um desenvolvimento mais ágil, com entregas mais curtas rápidas e contínuas.
-5. Pare de gastar dinheiro rodando e mantendo data centers.
-Agora quem mantém os datacenters é a AWS, você cuida apenas do contexto do teu negócio.
-6. Torne-se global em minutos.
-A infra e as ferramentas da AWS permitem que em alguns minutos você publique uma aplicação completa disponível para clientes no mundo todo.
+* Troca despesas fixas por despesas variáveis
+    Você pode reduzir despesas fixas, como a manutenção de servidores físicos e infraestrutura local, e passar a pagar apenas pelos recursos que realmente utiliza, o que pode resultar em economias significativas.
+
+* Alta escala de economias
+    A AWS oferece descontos significativos para uso em grande escala, incentivando a consolidação de recursos e possibilitando que empresas de todos os tamanhos obtenham benefícios econômicos consideráveis ao usar seus serviços.
+
+* Capacidade sob demanda
+    A AWS permite que você ajuste facilmente a capacidade dos seus recursos de acordo com as necessidades do seu negócio.
+
+* Velocidade e agilidade
+    As organizações podem experimentar um aumento significativo na velocidade e agilidade de suas operações. Isso se deve à capacidade da AWS de fornecer recursos computacionais rapidamente, permitindo que as equipes de desenvolvimento e operações respondam rapidamente às demandas do mercado e implementem novos recursos e atualizações com mais rapidez.
+
+* Redução de custos com datacenters
+    Você elimina os custos associados à infraestrutura física, como compra de equipamentos, energia, refrigeração, manutenção e espaço físico, reduzindo significativamente os gastos operacionais.
+
+* Lançamento global em minutos
+    Com a presença global da AWS em várias regiões ao redor do mundo, você pode lançar seus aplicativos e serviços em escala global em questão de minutos, aproveitando a infraestrutura e a rede global da AWS para oferecer uma experiência consistente e de alta qualidade para seus usuários em qualquer lugar.
