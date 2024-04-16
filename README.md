@@ -3,7 +3,7 @@
 Esse repositório tem o objetivo de trazer algumas anotações durante os estudos para a certificação da AWS Cloud Practitioner.
 
 # Índice
-1. [Conceitos Gerais da Cloud] (sections/conceitos_gerais_aws.md)
+1. [Conceitos Gerais da Cloud](sections/conceitos_gerais_aws.md)
 2. Computação em nuvem
 3. Sotrage
 4. Database
