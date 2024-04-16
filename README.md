@@ -1,6 +1,7 @@
 # Estudos AWS Cloud Practitioner Certified (CLF-C02)
 
-Esse repositório tem o objetivo de trazer algumas anotações durante os estudos para a certificação da AWS Cloud Practitioner.
+Esse repositório foi criado para organizar minhas anotações durante os meus estudos para a certificação da AWS Cloud Practitioner. Ele abrange informações sobre serviços, políticas e procedimentos da AWS que abordados no exame de certificação.
+
 
 # Índice
 1. [Conceitos Gerais da Cloud](sections/1_conceitos_gerais_aws.md)
