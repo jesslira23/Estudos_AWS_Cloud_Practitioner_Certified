@@ -3,15 +3,15 @@
 ## Serviços AWS existestes
 
 * [Amazon Lex](#amazon-lex)
-* Amazon Polly
-* Amazon Transcribe
-* Amazon Translate
-* Amazon Comprehend
-* Amazon Rekognition
-* Amazon Textract
-* Amazon SageMaker
-* Amazon Forecast
-* Amazon Personalize
+* [Amazon Polly](#amazon-polly)
+* [Amazon Transcribe](#amazon-transcribe)
+* [Amazon Translate](#amazon-translate)
+* [Amazon Comprehend](#amazon-comprehend)
+* [Amazon Rekognition](#amazon-rekognition)
+* [Amazon Textract](#amazon-textract)
+* [Amazon SageMaker](#amazon-sagemaker)
+* [Amazon Forecast](#amazon-forecast)
+* [Amazon Personalize](#amazon-personalize)
 
 ### Amazon Lex
 ### Amazon Polly
@@ -39,4 +39,4 @@
 
 ![Fig. IA](../images/8_fig_ia.png)
 
-[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)
+[<img align="center" src="../images/home.png" height="30" width="30"/> Home](../README.md)
