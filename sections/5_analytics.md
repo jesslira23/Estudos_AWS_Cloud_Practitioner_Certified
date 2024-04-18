@@ -1,15 +1,15 @@
 # Analytics
 
-Alguns recursos de databases são:
+Alguns recursos de analytics são:
 
-    * Amazon Athena
-    * Amazon EMR (Elastic MapReduce)
-    * Amazon QuickSight
-    * Amazon Glue
-    * Amazon Kinesis
-    * Amazon Data Pipeline
+* [Amazon Athena](#amazon-athena)
+* [Amazon EMR (Elastic MapReduce)](#amazon-emr)
+* [Amazon QuickSight](#amazon-quicksight)
+* [Amazon Glue](#amazon-glue)
+* [Amazon Kinesis](#amazon-kinesis)
+* [Amazon Data Pipeline](#amazon-data-pipeline)
 
-### Amazon Athena
+## Amazon Athena
 
 * Serviço de consulta interativa que permite analisar dados diretamente no Amazon S3
 * Usa linguagem SQL padrão para consultar os arquivos
@@ -19,13 +19,13 @@ Alguns recursos de databases são:
 
 [https://athena/](https://aws.amazon.com/pt/athena/)
 
-### Amazon EMR (Elastic MapReduce)
+## Amazon EMR (Elastic MapReduce)
 
 * EMR = Elastic MapReduce
 * EMR ajuda a criar Hadoop (BigData) para analisar e processar uma grande quantidade de dados
 * Serviço de processamento de dados que permite executar e escalar facilmente frameworks de big data como Apache, Hive e Presto.
 
-### Amazon QuickSight
+## Amazon QuickSight
 
 * Serviço de BI sem servidor para criar painéis interativos
 * Casos de uso:
@@ -35,7 +35,7 @@ Alguns recursos de databases são:
     - Insights de negócios usando dados
 * Integrado com RDS, Aurora, Athena, Redshift, S3…
 
-### Amazon Glue
+## Amazon Glue
 
 * Serviço de ETL
 * Útil para preparar e transformar dados para análise
@@ -43,11 +43,11 @@ Alguns recursos de databases são:
 * Pode ser usado por Athena, Redshift, EMR
 
 
-### Amazon Kinesis
+## Amazon Kinesis
 
 * Processamento de streaming de dados em tempo real
 
-### Amazon Data Pipeline
+## Amazon Data Pipeline
 
 * Serviço para orquestração de fluxos de trabalho de processamento de dados
 
@@ -55,4 +55,4 @@ Alguns recursos de databases são:
 
 ![Analytics](../images/4_analytics.png)
 
-[<img align="center" src="../images/botao-home.png" height="20" width="20"/> Home](../README.md)
+[<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)

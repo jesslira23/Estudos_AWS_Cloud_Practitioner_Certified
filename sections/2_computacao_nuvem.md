@@ -18,4 +18,4 @@ A computação em nuvem é o fornecimento sob demanda de recursos e aplicações
 * Elasticidade e escalabilidade rápidas
 * Serviço medido: usuários pagam pelo que usam
 
-[<img align="center" src="../images/botao-home.png" height="20" width="20"/> Home](../README.md)
+[<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)

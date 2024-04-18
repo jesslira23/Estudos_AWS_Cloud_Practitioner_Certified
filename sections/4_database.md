@@ -5,17 +5,17 @@
 A AWS oferece serviços de banco de dados relacionais e não-relacionais.
 Alguns recursos de databases são:
 
-    * Amazon RDS (Amazon Relational Database Service)
-    * Amazon Aurora
-    * Amazon ElastiCache
-    * Amazon DynamoDB
-    * Amazon Redshift
-    * Amazon Neptune
-    * Amazon DocumentDB
-    * DMS (Database Migration Service)
+* [Amazon RDS (Amazon Relational Database Service)](#amazon-rds)
+* [Amazon Aurora](#amazon-aurora)
+* [Amazon ElastiCache](#amazon-elasticache)
+* [Amazon DynamoDB](#amazon-dynamodb)
+* [Amazon Redshift](#amazon-redshift)
+* [Amazon Neptune](#amazon-neptune)
+* [Amazon DocumentDB](#amazon-documentdb)
+* [DMS (Database Migration Service)](#amazon-dms)
 
 
-### Amazon RDS (Amazon Relational Database Service)
+## Amazon RDS (Amazon Relational Database Service)
 
 * RDS = Relational Database Service
 * É um serviço de banco de dados gerenciado para uso de banco de dados SQL como linguagem de consulta.
@@ -27,7 +27,7 @@ Alguns recursos de databases são:
     - SQL Server
     - Aurora (database prórpio da AWS)
 
-### Amazon Aurora
+## Amazon Aurora
 
 * Aurora é uma tecnologia proprietária da AWS (não de código aberto)
 * Otimizado para oferecer um desempenho mais rápido.
@@ -36,14 +36,14 @@ Alguns recursos de databases são:
 * Aurora custa mais que RDS (20% mais) – mas é mais eficiente
 * Não está no nível gratuito
 
-### Amazon ElastiCache
+## Amazon ElastiCache
 
 * *In-memory* DB
 * Caches são bancos de dados na memória com alto desempenho e baixa latência
 * Ajuda a reduzir a carga de banco de dados que tem um uso itenso de leitura
 
 
-### Amazon DynamoDB
+## Amazon DynamoDB
 
 * Banco de dados NoSQL
 * Banco de dados de valor-chave que fornece latência inferior a um milissegundo em grande escala
@@ -51,7 +51,7 @@ Alguns recursos de databases são:
 * Integrado com IAM para segurança, autorização e administração
 
 
-### Amazon Redshift
+## Amazon Redshift
 
 * Serviço de DW para análises de big data e cargas de BI
 * Baseado em um PostgreSQL, mas não é usado para OLTP (Online Transactional Processing)
@@ -60,7 +60,7 @@ Alguns recursos de databases são:
 * Possui interface SQL para realizar as consultas
 * Ferramentas de BI como AWS Quicksight ou Tableau integram-se a ele
 
-### Amazon Neptune
+## Amazon Neptune
 
 * Graph DB (redes sociais, análises de fraudes e recomendações personalizadas)
 * Um conjunto de dados gráficos popular seria uma rede social
@@ -70,12 +70,12 @@ Alguns recursos de databases são:
     - Os usuários compartilham e gostam de postagens…
 * Exemplo: Wikipédia
 
-### Amazon DocumentDB
+## Amazon DocumentDB
 
 * Compatível com o MongoDB (JSON) - NoSQL DB
 * Altamente disponível com replicação em 3 AZ
 
-### DMS
+## DMS
 
 * DMS = Database Migration Service
 * É o serviço que faz a migração de banco de dados
@@ -86,4 +86,4 @@ Alguns recursos de databases são:
 
 ![Database](../images/3_database.png)
 
-[<img align="center" src="../images/botao-home.png" height="20" width="20"/> Home](../README.md)
+[<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)
