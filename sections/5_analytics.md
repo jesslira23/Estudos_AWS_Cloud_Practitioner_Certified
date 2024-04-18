@@ -55,3 +55,4 @@ Alguns recursos de databases são:
 
 ![Analytics](../images/4_analytics.png)
 
+[<img align="center" src="../images/botao-home.png" height="30" width="30"/> Home](../README.md)
