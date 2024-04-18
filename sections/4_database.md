@@ -86,4 +86,4 @@ Alguns recursos de databases são:
 
 ![Database](../images/3_database.png)
 
-[<img align="center" src="../images/casa.png" height="30" width="30"/> Home](../README.md)
+[<img align="center" src="../images/botao-home.png" height="20" width="20"/> Home](../README.md)

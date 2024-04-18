@@ -39,4 +39,4 @@
 
 ![Fig. IA](../images/8_fig_ia.png)
 
-[<img align="center" src="../images/home.png" height="30" width="30"/> Home](../README.md)
+[<img align="center" src="../images/botao-home.png" height="20" width="20"/> Home](../README.md)
