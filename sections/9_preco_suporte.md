@@ -1,13 +1,19 @@
 # Preço e suporte
 
-* [AWS Organizations](#amazon-organization)
-* [AWS Control Tower](#amazon-control-tower)
-* [Modelos de preços na AWS](#amazon-pricing-policies)
-* [AWS Preço da nuvem](#amazon-overview)
-* [AWS Saving Plans](#amazon-savingplans)
-* [Ferramentas de precificação na AWS](#amazon-ferramentas-billing)
-    - [Calculadora AWS](#amazon-calculadora)
-* [AWS Suporte Plan](#amazon-suporte-plan)
+Alguns recursos sobre billing e suporte da AWS:
+
+* [AWS Organizations](#aws-organization)
+* [AWS Control Tower](#aws-control-tower)
+* [Modelos de preços na AWS](#Modelos-de-precos-na-aws)
+* [AWS Billing](#aws-billing)
+* [AWS Saving Plans](#aws-saving-plans)
+* [AWS Ferramentas Billing](#aws-ferramentas-billing)
+    - [AWS Calculadora](#aws-calculadora)
+    - [Dashboards de faturamento](Dashboard-de-faturamento)
+    - [Tags de custo e reports](tags-de-custo-e-reports)
+    - [AWS Cost Explorer](aws-cost-explorer)
+    - [AWS Marketplace](aws-marketplace)
+* [AWS Suporte Plan](#aws-suporte-plan)
 
 
 ## AWS Organizations
@@ -45,7 +51,7 @@ A AWS tem 4 políticas de preço:
 | 3. Pay less by using more | Descontos por volume ou iso intensivo de recursos |
 | 4. Pay less as AWS grows | Descontos a medida que novas tecnologias são desenvolvidas |
 
-## Preço da nuvem
+## AWS Billing
 
 A AWS tem três fundamentos de precificação, seguindo o modelo de precificação:
 1. Compute (EC2, Lambda e ECS)
@@ -54,13 +60,13 @@ A AWS tem três fundamentos de precificação, seguindo o modelo de precificaç�
 4. Database (RDS)
 5. Transfer accelerations
 
-## Saving Plans
+## AWS Saving Plans
 
 * Níveis gratuitos AWS (serviços que são 100% gratuitos, 12 meses grauitos e por avaliações)
 * Instâncias reservadas por 1 ou 3 anos (compromissos de longo prazo na AWS)
 
 
-## Ferramentas de precificação na AWS
+## AWS Ferramentas Billing
 
 ### Calculadora AWS
 
@@ -87,7 +93,6 @@ A AWS tem três fundamentos de precificação, seguindo o modelo de precificaç�
 * Relatórios podem ser integrados e analisados por Athena, Redshift ou QuickSight.
 * Objetivo dos relatórios: detalhar os custos por categoria de serviços, por conta e por usuário IAM por hora e dia.
 
-
 ### AWS Cost Explorer
 
 * Ferramenta de análise de custos e orçamento que permite visualizar, entender e controlar os custos e o uso dos recursos da AWS.
@@ -98,7 +103,7 @@ A AWS tem três fundamentos de precificação, seguindo o modelo de precificaç�
 * Portal online que você pode descobrir, comprar, implantar softwares, serviços e soluções prontas para uso na AWS.
 
 
-# Support Plans da AWS
+# AWS Support Plans
 
 | Plano de suporte | Status do preço | Descrição |
 |----------|----------|----------|
@@ -111,6 +116,6 @@ Link da documentação: [AWS Support Plans](https://aws.amazon.com/pt/premiumsup
 
 ## Resumo sobre os preço e suporte da AWS
 
-![Billing e support](../images/9_fig_preco_suportes.png)
+![Billing e support](../images/09_fig_preco_suporte.png)
 
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)

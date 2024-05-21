@@ -23,4 +23,8 @@ A AWS é responsável por proteger a infraestrutura que executa todos os serviç
 * Validação de compliance
 * A AWS é responsável pela desativação de dispositivos de armazenamento subjacentes em fim de vida útil usados para hospedar dados na AWS.
 
+## Resumo sobre o Modelo de Responsabilidade Compartilhada
+
+![Resumo de Modelo de Responsabilidade Compartilhada](../images/13_fig_modelo_responsabilidade_compartilhada.png)
+
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)

@@ -27,6 +27,6 @@ Alguns recursos de mensageria são:
 
 ## Resumo sobre os serviços da AWS de mensageria
 
-![Messaging](../images/7_fig_messaging.png)
+![Resumo Messaging](../images/07_fig_messaging.png)
 
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)
