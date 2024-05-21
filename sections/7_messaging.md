@@ -1,6 +1,6 @@
 # Messaging
 
-Alguns recursos de analytics são:
+Alguns recursos de mensageria são:
 
 * [SQS (Simples Queue Service)](#sqs)
 * [SNS (Simple Notification Service)](#sns)
