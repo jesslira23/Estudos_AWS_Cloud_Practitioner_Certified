@@ -54,6 +54,6 @@ Alguns recursos de analytics são:
 
 ## Resumo sobre os serviços da AWS de analytics
 
-![Analytics](../images/4_analytics.png)
+![Analytics](../images/05_fig_analytics.png)
 
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)

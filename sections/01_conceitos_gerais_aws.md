@@ -1,5 +1,15 @@
 # Conceitos Gerais da AWS
 
+Alguns conceitos gerais sobre a AWS:
+
+* [Modelos de infra existentes](#modelos-de-infra-existentes)
+* [Tipos Serviços Cloud](#Tipos-servicos-cloud)
+* [Infraestrutura Global da AWS](infraestrutura-global-da-aws)
+    - [Regions](regions)
+    - [Availability Zone](availability-zone)
+* [Benefícios e vantagens do uso de computação na AWS Cloud](beneficios-e-vantagens-do-uso-de-computacao-na-aws-cloud)
+
+
 ## Modelos de infra existentes
 
 * Cloud: 100% provisionada na cloud
@@ -63,5 +73,9 @@ Para mais informações: [https://aws.global-infrastructure/](https://aws.amazon
 
 * Lançamento global em minutos:
     - Com a presença global da AWS em várias regiões ao redor do mundo, você pode lançar seus aplicativos e serviços em escala global em questão de minutos, aproveitando a infraestrutura e a rede global da AWS para oferecer uma experiência consistente e de alta qualidade para seus usuários em qualquer lugar.
+
+## Resumo sobre os serviços da AWS de analytics
+
+![Resumo Conceitos Gerais](../images/01_fig_conceitos_gerais.png)
 
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)

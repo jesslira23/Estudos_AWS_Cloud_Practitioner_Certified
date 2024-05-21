@@ -62,6 +62,6 @@ Alguns recursos de analytics são:
 
 ## Resumo sobre os serviços da AWS de Monitoramento
 
-![Monitoramento](../images/10_fig_monitoramento.png)
+![Resumo de Monitoramento](../images/10_fig_monitoramento.png)
 
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)

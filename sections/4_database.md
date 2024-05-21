@@ -84,6 +84,6 @@ Alguns recursos de databases são:
 
 ## Resumo sobre os serviços da AWS de banco de dados
 
-![Database](../images/3_database.png)
+![Database](../images/04_fig_database.png)
 
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)

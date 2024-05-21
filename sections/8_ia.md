@@ -37,6 +37,8 @@
 * Forecast: crie previsões altamente precisas
 * Personalize: recomendações personalizadas em tempo real
 
-![Fig. IA](../images/8_fig_ia.png)
+## Resumo sobre os serviços de IA da AWS
+
+![Resumo recursos IA](../images/08_fig_ia.png)
 
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)
