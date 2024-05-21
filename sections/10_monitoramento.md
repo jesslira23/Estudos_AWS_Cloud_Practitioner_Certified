@@ -43,6 +43,9 @@ Alguns recursos de analytics são:
     3. Segurança
     4. Tolerância a falhas
     5. Serviços limitados
+* Disponibilidade:
+    1. Para todos os clientes: Checagem padrão com recomendações em que você pode receber emails semanalmente e notificações do console.
+    2. Para clientes dos [b]Planos de Suporte Business & Enterprise[/b]
 
 ## Amazon Config
 
