@@ -46,6 +46,7 @@ Alguns recursos de analytics são:
 ## Amazon Kinesis
 
 * Processamento de streaming de dados em tempo real
+* Serviço gerenciado para coletar, processar e analisar dados de streaming em tempo real em qualquer escala
 
 ## Amazon Data Pipeline
 
