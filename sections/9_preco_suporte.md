@@ -6,8 +6,8 @@
 * [AWS Preço da nuvem](#amazon-overview)
 * [AWS Saving Plans](#amazon-savingplans)
 * [Ferramentas de precificação na AWS](#amazon-ferramentas-billing)
-* [Calculadora AWS](#amazon-calculator)
-* [Amazon Suporte Plan](#amazon-suporte-plan)
+    - [Calculadora AWS](#amazon-calculadora)
+* [AWS Suporte Plan](#amazon-suporte-plan)
 
 
 ## AWS Organizations
