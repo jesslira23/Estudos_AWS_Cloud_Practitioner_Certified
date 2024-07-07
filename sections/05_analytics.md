@@ -8,7 +8,7 @@
 * [Amazon Glue](#amazon-glue)
 * [Amazon Kinesis](#amazon-kinesis)
 * [Amazon Data Pipeline](#amazon-data-pipeline)
-* [## Resumo sobre os serviços](#resumo-sobre-os-serviços)
+* [Resumo sobre os serviços](#resumo-sobre-os-serviços)
 
 ## Amazon Athena
 
