@@ -1,6 +1,6 @@
 # Conceitos Gerais da AWS
 
-Alguns conceitos gerais sobre a AWS:
+# Índice
 
 * [Modelos de infra existentes](#modelos-de-infra-existentes)
 * [Tipos Serviços Cloud](#Tipos-servicos-cloud)
@@ -51,6 +51,14 @@ Para mais informações: [https://aws.global-infrastructure/](https://aws.amazon
 * As AZs ficam separadas entre si, de modo que fiquem isolados de desastres
 * Eles são conectados com high bandwidth, ultra-low latency networking
 
+## Benefícios AWS cloud
+
+1. Scalling: pode ser classificada por 2 tipos:
+    1.1. Scalling vertical é um tamanho maior;
+    1.2. Scalling horizontal significa adicionar instâncias do mesmo tamanho;
+2. Elasticidade: é usar a automação com o scalling horizontal para adequar nossa capacidade à nossa demanda.
+
+[] ADICIONAR FIGURA DE SCALLING E ELASTICIDADE
 
 ## Benefícios e vantagens do uso de computação na AWS Cloud
 
@@ -74,8 +82,18 @@ Para mais informações: [https://aws.global-infrastructure/](https://aws.amazon
 * Lançamento global em minutos:
     - Com a presença global da AWS em várias regiões ao redor do mundo, você pode lançar seus aplicativos e serviços em escala global em questão de minutos, aproveitando a infraestrutura e a rede global da AWS para oferecer uma experiência consistente e de alta qualidade para seus usuários em qualquer lugar.
 
+
+[o que é a AWS?]https://aws.amazon.com/pt/what-is-aws/
+
+
 ## Resumo sobre os serviços da AWS de analytics
 
 ![Resumo Conceitos Gerais](../images/01_fig_conceitos_gerais.png)
+
+Perguntas frequentes:
+
+Quais são as vantagens de implantar um aplicativo com instâncias do Amazon EC2 em várias zonas de disponibilidade?
+1. A implantação das instâncias do EC2 em várias zonas de disponibilidade evita um único ponto de falha. As zonas de disponibilidade são projetadas para redundância física e para fornecer resiliência com desempenho ininterrupto.
+2. Se você hospedar todas as suas instâncias em um único local afetado por uma falha, nenhuma delas ficará disponível. As zonas de disponibilidade são projetadas para redundância física e para fornecer resiliência com desempenho ininterrupto.
 
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)
