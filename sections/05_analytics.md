@@ -1,6 +1,6 @@
 # Analytics
 
-Alguns recursos de analytics são:
+# Índice
 
 * [Amazon Athena](#amazon-athena)
 * [Amazon EMR (Elastic MapReduce)](#amazon-emr)
@@ -8,6 +8,7 @@ Alguns recursos de analytics são:
 * [Amazon Glue](#amazon-glue)
 * [Amazon Kinesis](#amazon-kinesis)
 * [Amazon Data Pipeline](#amazon-data-pipeline)
+* [## Resumo sobre os serviços](#resumo-sobre-os-serviços)
 
 ## Amazon Athena
 
@@ -52,7 +53,7 @@ Alguns recursos de analytics são:
 
 * Serviço para orquestração de fluxos de trabalho de processamento de dados
 
-## Resumo sobre os serviços da AWS de analytics
+## Resumo sobre os serviços
 
 ![Analytics](../images/05_fig_analytics.png)
 

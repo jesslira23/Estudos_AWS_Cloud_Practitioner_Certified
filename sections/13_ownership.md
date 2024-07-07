@@ -22,6 +22,10 @@ A AWS é responsável por proteger a infraestrutura que executa todos os serviç
 * Configuração e análise de vulnerabilidade
 * Validação de compliance
 * A AWS é responsável pela desativação de dispositivos de armazenamento subjacentes em fim de vida útil usados para hospedar dados na AWS.
+* AWS é responsável pelo Infraestutura global de hardwares (regiões, zonas de disponibilidade, locais de borda)
+* Realizar patches e manutenção da infraestrutura.
+* Assegurar o acesso físico às instalações da AWS.
+
 
 ## Resumo sobre o Modelo de Responsabilidade Compartilhada
 

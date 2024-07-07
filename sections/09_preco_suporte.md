@@ -1,6 +1,6 @@
 # Preço e suporte
 
-Alguns recursos sobre billing e suporte da AWS:
+# Índice
 
 * [AWS Organizations](#aws-organization)
 * [AWS Control Tower](#aws-control-tower)
@@ -14,6 +14,8 @@ Alguns recursos sobre billing e suporte da AWS:
     - [AWS Cost Explorer](aws-cost-explorer)
     - [AWS Marketplace](aws-marketplace)
 * [AWS Suporte Plan](#aws-suporte-plan)
+* [Resumo sobre os preço e suporte da AWS](#resumo-sobre-os-preço-e-suporte-da-aws)
+* [Link da documentação](#link-da-documentação)
 
 
 ## AWS Organizations
@@ -45,7 +47,6 @@ A AWS tem 4 políticas de preço:
 
 | Política de preço | Descrição |
 |----------|----------|
-| AWS Basic Support Plan | Gratuito | Gratuito e disponível para todos os clientes AWS |
 | 1. Pay as you go | Pague com base no tempo de uso |
 | 2. Pay less when you reserve | Descontos significativos ao se comprometer por um tempo específico |
 | 3. Pay less by using more | Descontos por volume ou iso intensivo de recursos |
@@ -110,12 +111,35 @@ A AWS tem três fundamentos de precificação, seguindo o modelo de precificaç�
 | AWS Basic Support Plan | Gratuito | Gratuito e disponível para todos os clientes AWS |
 | AWS Developer Support Plan | Pago | Suporte técnico via e-mail em horário comercial e tempo de resposta = 12h |
 | AWS Business Support Plan | Pago | Suporte técnico 24x7 via telefone, tempo de resposta < 1h e Health API |
-| AWS Enterprise Support Plan | Pago | TAM (Technical Account Manager) e tempo de resposta < 15 min |
+| AWS Enterprise Support Plan | Pago | AWS Concierge Support Team e TAM (Technical Account Manager) e tempo de resposta < 15 min e serviço de concierge cujo foco principal é ajudar a você a ter sucesso na AWS |
 
-Link da documentação: [AWS Support Plans](https://aws.amazon.com/pt/premiumsupport/plans/)
+# EC2 Pricing
+
+| Tipo de Instância | Descrição |
+|----------|----------|
+| Instâncias sob demanda | A opção de instância EC2 mais econômica para a empresa que precisa hospedar uma aplicação com workloads imprevisíveis ou intermitentes são as On-Demand Instances. Esta opção é adequada para aplicações que têm padrões de uso variáveis e permite pagar por segundo, sem compromissos de longo prazo ou pagamentos iniciais. |
+| Instâncias reservadas | ?? |
+| Spot Intances | As Spot Instances são a opção de compra mais econômica, pois utilizam capacidade EC2 ociosa disponível com descontos de até 90% em relação ao preço das instâncias On-Demand. |
+| Instâncias dedicadas | ?? |
+
+Declarações que explicam o valor comercial da migração para a nuvem AWS:
+1. A disponibilidade e a segurança da AWS oferecem a capacidade de melhorar os acordos de nível de serviço (SLAs), reduzindo riscos e tempo de inatividade não planejado.
+2. Empresas que migram para a AWS Cloud reduzem custos de TI relacionados à infraestrutura, liberando orçamento para reinvestimento em outras áreas.
 
 ## Resumo sobre os preço e suporte da AWS
 
 ![Billing e support](../images/09_fig_preco_suporte.png)
+
+
+## Link da documentação
+[AWS Support Plans](https://aws.amazon.com/pt/premiumsupport/plans/)
+
+
+# Perguntas frequentes:
+
+Qual estratégia pode ajudar na alocação de metadados aos recursos da AWS para monitoramento e visibilidade de custos?
+
+Tagging - A AWS permite que os clientes atribuam metadados aos seus recursos da AWS na forma de tags. Cada tag é um rótulo simples que consiste em uma chave definida pelo cliente e um valor opcional que pode facilitar o gerenciamento, a pesquisa e a filtragem de recursos. O AWS Cost Explorer e os relatórios de faturamento detalhados oferecem suporte à capacidade de detalhar os custos da AWS por tag. As outras opções estão incorretas porque não são métodos de adição de metadados a um recurso AWS.
+
 
 [<img align="center" src="../images/botao-home.png" height="25" width="25"/> Home](../README.md)
