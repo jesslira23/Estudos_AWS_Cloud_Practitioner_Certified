@@ -79,7 +79,7 @@ Facilita a migração de banco de dados para AWS
 ### Family AWS Snow
 Dispositivos físicos projetados para transferir grandes quantidades de dados de forma offline
 
-![Family Snow](../images/03_fig_family_snow)
+![Family Snow](../images/03_fig_family_snow.png)
 
 ### Amazon S3 Transfer Acceleration
 Transferir grandes quantidades de dados para o S3 de forma rápida e segura

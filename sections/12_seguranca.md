@@ -4,21 +4,21 @@
 
 * [Segurnaça e conformidade](#segurnaça-e-conformidade)
 * [Serviços de segurança da AWS](#serviços-de-segurança-da-aws)
-        - [AWS Inspector](#aws-inspector)
-        - [AWS Security HUB](#aws-security-hub)
-        - [AWS WAF (AWS Web App Firewall)](#aws-waf-aws-web-app-firewall)
-        - [Amazon GuardDuty](#amazon-guardduty)
-        - [AWS Shield](#aws-shield)
-        - [Amazon Macie](#amazon-macie)
-        - [AWS CloudHSM](#aws-cloudhsm)
-        - [Amazon Cognito](#amazon-cognito)
-        - [AWS Artifact](#aws-artifact)
-        - [Criptografia](#criptografia)
+    - [AWS Inspector](#aws-inspector)
+    - [AWS Security HUB](#aws-security-hub)
+    - [AWS WAF (AWS Web App Firewall)](#aws-waf-aws-web-app-firewall)
+    - [Amazon GuardDuty](#amazon-guardduty)
+    - [AWS Shield](#aws-shield)
+    - [Amazon Macie](#amazon-macie)
+    - [AWS CloudHSM](#aws-cloudhsm)
+    - [Amazon Cognito](#amazon-cognito)
+    - [AWS Artifact](#aws-artifact)
+    - [Criptografia](#criptografia)
 * [Gerenciamento de acessos da AWS](#gerenciamento-de-acessos-da-aws)
-        - [IAM - Identity and Access Management](#iam---identity-and-access-management)
-        - [MFA - Multi Factor Authenticator](#mfa---multi-factor-authenticator)
-        - [Usuário-raiz da conta da AWS](#usuário-raiz-da-conta-da-aws)
-        - [AWS Simple Token Service (AWS STS)](#aws-simple-token-service-aws-sts)
+    - [IAM - Identity and Access Management](#iam---identity-and-access-management)
+    - [MFA - Multi Factor Authenticator](#mfa---multi-factor-authenticator)
+    - [Usuário-raiz da conta da AWS](#usuário-raiz-da-conta-da-aws)
+    - [AWS Simple Token Service (AWS STS)](#aws-simple-token-service-aws-sts)
 * [Resumo sobre os serviços de segurança](#resumo-sobre-os-serviços-de-segurança)
 
 
@@ -37,8 +37,8 @@ Link da documentação: [Documentação de segurança da AWS](https://docs.aws.a
 
 ### AWS Inspector
 - Serviço que verifica continuamente as workloads em busca de vulnerabilidade de software e exposição não intencional à rede
-        - Instâncias EC2
-        - Cargas de containers
+    - Instâncias EC2
+    - Cargas de containers
 - Serviço que podem fornecer recomendações sobre segurança.
 - Serviço que juda a melhorar a segurança e conformidade das aplicações.
 
@@ -103,16 +103,16 @@ Link da documentação:
 
 ### Usuário-raiz da conta da AWS
 - O root-user tem completo e irrestrito acesso a todos os recursos em uma conta da AWS.
-        - Gerenciar configurações da conta
-        - Restaurar permissões de usuário do IAM
-        - Ativas o acesso do IAM ao console de gerenciamento e faturamento
-        - Ver faturas de impostos
-        - Fechar sua conta da AWS
-        - Registrar como um vendedor
-        - COnfigurar o s3 com MFA
-        - Editar ou excluir as políticas de bucket do S3
-        - Cadastrar na AWS GovCloud
-        - Solicitar chaves de acesso para o usuário-raiz da conta da AWS GovCloud
+    - Gerenciar configurações da conta
+    - Restaurar permissões de usuário do IAM
+    - Ativas o acesso do IAM ao console de gerenciamento e faturamento
+    - Ver faturas de impostos
+    - Fechar sua conta da AWS
+    - Registrar como um vendedor
+    - COnfigurar o s3 com MFA
+    - Editar ou excluir as políticas de bucket do S3
+    - Cadastrar na AWS GovCloud
+    - Solicitar chaves de acesso para o usuário-raiz da conta da AWS GovCloud
 - não é recomendado usar o root-user em atividades diárias
 
 ### AWS Simple Token Service (AWS STS)
